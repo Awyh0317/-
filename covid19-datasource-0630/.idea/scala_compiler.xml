@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="covid19-process-0630">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\javatest\ideaProject_bigData\training2\covid19-process-0630\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
